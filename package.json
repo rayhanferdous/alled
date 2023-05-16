@@ -51,7 +51,7 @@
     "postcss": "^8.4.21",
     "react": "18.2.0",
     "react-apexcharts": "^1.4.0",
-    "react-bootstrap": "^2.7.2",
+    "react-bootstrap": "^2.7.4",
     "react-chartjs-2": "^5.2.0",
     "react-circular-progressbar": "^2.1.0",
     "react-color": "^2.19.3",
